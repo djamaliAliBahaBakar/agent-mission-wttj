@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Modifier la candidature</title>
+</head>
+
+<body>
+
+    <h1>Modifier la candidature</h1>
+
+    <!-- Titre mission -->
+    <h2>{{ name }}</h2>
+
+    <!-- Message éventuel (no_change / invalid) -->
+    {% if message %}
+        <p style="color: red;">{{ message }}</p>
+    {% endif %}
+
+    <!-- Formulaire -->
+    <form method="post" action="/modify">
+
+        <!-- thread_id caché -->
+        <input type="hidden" name="thread_id" value="{{ thread_id }}">
+
+        <!-- zone de texte -->
+        <textarea name="candidate" rows="15" cols="80">
+{{ candidate }}
+        </textarea>
+
+        <br><br>
+
+        <!-- bouton submit -->
+        <button type="submit">Valider la modification</button>
+
+    </form>
+
+</body>
+</html>

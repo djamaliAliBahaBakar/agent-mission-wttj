@@ -1,0 +1,108 @@
+{
+  "profile_title": "Ingénieur IA / Concepteur de systèmes à base d’agents",
+  "summary": "Ingénieur logiciel senior avec plus de 25 ans d’expérience en backend, cloud et systèmes distribués (finance, SaaS). Spécialisation actuelle en intelligence artificielle appliquée, avec un focus sur les LLM, les architectures d’agents et les systèmes décisionnels orientés produit.",
+  "candidate_name":"Djamali Ali baha bakar",
+  "target_missions": {
+    "mission_type": "Freelance",
+    "desired_daily_rate_eur": 650,
+    "work_mode": [
+      "remote",
+      "hybride"
+    ],
+    "availability": "3 mois",
+    "languages": [
+      "français",
+      "anglais"
+    ],
+    "preferred_domains": [
+      "agents IA",
+      "LLM applications",
+      "systèmes décisionnels",
+      "automatisation intelligente",
+      "produits SaaS IA",
+      "backend Python/Java",
+      "cloud et systèmes distribués"
+    ]
+  },
+  "experience": {
+    "software_engineering_years": 25,
+    "ai_engineering_years": 1,
+    "seniority": "Senior / Lead"
+  },
+  "technical_stack": {
+    "ai": [
+      "LangGraph",
+      "Python",
+      "LLM",
+      "Machine Learning",
+      "Deep Learning",
+      "agents IA",
+      "IA appliquée",
+      "Prompt Engineering",
+      "extraction structurée",
+      "feature engineering"
+    ],
+    "backend": [
+      "Java",
+      "Python",
+      "APIs REST",
+      "backend",
+      "automatisation"
+    ],
+    "cloud_devops": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Jenkins"
+    ],
+    "architecture": [
+      "systèmes distribués",
+      "architectures cloud scalables",
+      "architectures résilientes",
+      "conception de systèmes à base d’agents"
+    ],
+    "product": [
+      "identification de pain points",
+      "conception SaaS",
+      "systèmes décisionnels orientés produit"
+    ]
+  },
+  "roles_targeted": [
+    "Ingénieur IA",
+    "AI Engineer",
+    "LLM Engineer",
+    "Agentic Systems Engineer",
+    "Concepteur de systèmes à base d’agents",
+    "Consultant IA",
+    "Senior Backend / AI Engineer"
+  ],
+  "value_proposition": [
+    "Transforme des problématiques métier en automatisations ou produits SaaS",
+    "Conçoit des agents IA orientés valeur business",
+    "Combine expertise senior en systèmes distribués et spécialisation IA appliquée",
+    "Capable de travailler de l’architecture jusqu’à l’implémentation"
+  ],
+  "keywords_for_matching": [
+    "langgraph",
+    "python",
+    "llm",
+    "ml",
+    "deep learning",
+    "agent ia",
+    "ia",
+    "java",
+    "aws",
+    "docker",
+    "kubernetes",
+    "backend",
+    "cloud",
+    "ci/cd",
+    "apis rest",
+    "systèmes distribués",
+    "saaS",
+    "freelance",
+    "remote",
+    "hybride"
+  ]
+}
